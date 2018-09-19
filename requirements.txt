@@ -1,2 +1,2 @@
-flask
-flask-restful
+-r tasks/requirements.txt
+-r app/requirements.txt
